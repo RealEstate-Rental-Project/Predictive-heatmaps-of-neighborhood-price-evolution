@@ -2,5 +2,5 @@
 @Library('ml-shared-library') _
 
 mlModelPipeline (
-    appName: 'Predictive-heatmaps-of-neighborhood-price-evolution'
+    appName: 'predictive-heatmaps-of-neighborhood-price-evolution'
 )
